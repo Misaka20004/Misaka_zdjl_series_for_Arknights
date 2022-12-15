@@ -1,3 +1,0 @@
-{"repeatCount":-1,"pauseOnFail":true,"count":2,"minVerCode":29,"minVerName":"2.1.3","screenWidth":1280,"screenHeight":720,"screenDpi":1.5,"lastSaveScreenWidth":1280,"lastSaveScreenHeight":720,"lastSaveScreenDpi":1.5,"savedVerCode":2025020,"savedVerName":"2.25.2","description":""}
-{"type":"点击","delayUnit":1,"posData":{"type":"location","x":"12%","y":"49.6%"}}
-{"type":"点击","delayUnit":1,"posData":{"type":"location","x":"65.5%","y":"68.5%"}}
